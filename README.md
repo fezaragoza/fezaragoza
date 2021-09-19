@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a Mechatronics Engineer with a minor in Appled Robotics, graduated from Tecnologico de Monterrey. (ITESM)
